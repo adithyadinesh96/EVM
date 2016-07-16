@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">EVM</string>
+
+    <string name="quit">QUIT</string>
+    <string name="really_quit">DO YOU WANT TO QUIT</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint1">TYPE ELECTORAL NAME</string>
+    <string name="hint2">TYPE YOUR ID NO</string>
+    <string name="next">NEXT</string>
+    <string name="valid">I agree that above entered details is valid!!!</string>
+    <string name="title_activity_vote">EVM </string>
+    <string name="Welcometoelection">Welcome to  Election process</string>
+
+    <string name="title_activity_vote2">vote2</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="NUMBerofcandidates">Please select number of candidates</string>
+    <string name="title_activity_candidate">CANDIDATE</string>
+    <string name="entercandidates">ENTER THE CANDIDATES NAME</string>
+    <string name="candidate1">CANDIDATE 1:</string>
+    <string name="can1hint">1ST CANDIDATE NAME</string>
+    <string name="can2">CANDIDATE 2:</string>
+    <string name="can2hint">2ND CANDIDATE NAME</string>
+    <string name="can3">CANDIDATE 3:</string>
+    <string name="can3hint">3rd CANDIDATE NAME</string>
+
+    <string name="can4">CANDIDATE 4:</string>
+    <string name="can4hint">4TH CANDIDATE NAME</string>
+
+    <string name="can5">CANDIDATE 5:</string>
+    <string name="can5hint">5TH CANDIDATE NAME</string>
+    <string name="one">1:</string>
+    <string name="two">2:</string>
+    <string name="three">3:</string>
+    <string name="four">4:</string>
+    <string name="five">5:</string>
+
+
+    <string name="Voteforcand">Vote for one candidate</string>
+    <string name="title_activity_check">Check</string>
+    <string name="con">CONTINUE VOTING</string>
+    <string name="endvoting">END VOTING PROCESS</string>
+    <string name="title_activity_result">Result</string>
+    <string name="hasended">VOTING PROCESS HAS ENDED</string>
+    <string name="candidates">CANDIDATES</string>
+    <string name="nof">NO OF VOTES WON</string>
+    <string name="res">RESULT</string>
+    <string name="fullname">ELECTRONIC VOTING MACHINE(EVM)</string>
+</resources>
+
